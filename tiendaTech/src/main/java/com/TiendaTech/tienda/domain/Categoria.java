@@ -1,5 +1,4 @@
-package com.tiendaTech.tienda.domain;
-
+package com.TiendaTech.tienda.domain;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
