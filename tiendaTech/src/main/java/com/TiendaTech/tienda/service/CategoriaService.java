@@ -1,4 +1,4 @@
-package com.TiendaTech.tienda.service;
+package com.tiendaTech.tienda.service;
 
 import com.TiendaTech.tienda.domain.Categoria;
 import com.TiendaTech.tienda.repository.CategoriaRepository;

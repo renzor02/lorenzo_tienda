@@ -1,6 +1,5 @@
 package com.tiendaTech.tienda.controller;
 
-
 import com.tiendaTech.tienda.service.CategoriaService;
 import com.tiendaTech.tienda.service.ProductoService;
 import org.springframework.stereotype.Controller;

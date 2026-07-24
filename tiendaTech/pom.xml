@@ -40,6 +40,10 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-mail</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
             <scope>runtime</scope>
             <optional>true</optional>
@@ -114,6 +118,12 @@
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-web</artifactId>
             <version>7.0.5</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>com.tiendaTech</groupId>
+            <artifactId>tienda</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
             <type>jar</type>
         </dependency>
     </dependencies>
