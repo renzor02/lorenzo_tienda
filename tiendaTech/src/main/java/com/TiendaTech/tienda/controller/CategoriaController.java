@@ -1,7 +1,7 @@
-package com.tiendaTech.tienda.controller;
+package com.TiendaTech.tienda.controller;
  
 import com.TiendaTech.tienda.domain.Categoria;
-import com.tiendaTech.tienda.service.CategoriaService;
+import com.TiendaTech.tienda.service.CategoriaService;
 import jakarta.validation.Valid;
 import java.util.Locale;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.tiendaTech.tienda.domain;
+package com.TiendaTech.tienda.domain;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;

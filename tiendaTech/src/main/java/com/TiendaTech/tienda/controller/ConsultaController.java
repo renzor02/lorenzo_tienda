@@ -1,6 +1,6 @@
-package com.tiendaTech.tienda.controller;
+package com.TiendaTech.tienda.controller;
 
-import com.tiendaTech.tienda.service.ProductoService;
+import com.TiendaTech.tienda.service.ProductoService;
 import java.math.BigDecimal;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

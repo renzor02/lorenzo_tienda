@@ -1,4 +1,4 @@
-package com.tiendaTech.tienda.service;
+package com.TiendaTech.tienda.service;
 
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;

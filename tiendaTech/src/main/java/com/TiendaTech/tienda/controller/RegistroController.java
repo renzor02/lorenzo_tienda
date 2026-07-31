@@ -1,7 +1,7 @@
-package com.tiendaTech.tienda.controller;
+package com.TiendaTech.tienda.controller;
 
-import com.tiendaTech.tienda.domain.Usuario;
-import com.tiendaTech.tienda.service.RegistroService;
+import com.TiendaTech.tienda.domain.Usuario;
+import com.TiendaTech.tienda.service.RegistroService;
 import jakarta.mail.MessagingException;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

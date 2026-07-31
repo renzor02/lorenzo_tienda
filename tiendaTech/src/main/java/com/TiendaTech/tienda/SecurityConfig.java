@@ -1,7 +1,7 @@
-   package com.tiendaTech.tienda;
+   package com.TiendaTech.tienda;
 
-import com.tiendaTech.tienda.domain.Ruta;
-import com.tiendaTech.tienda.service.RutaService;
+import com.TiendaTech.tienda.domain.Ruta;
+import com.TiendaTech.tienda.service.RutaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

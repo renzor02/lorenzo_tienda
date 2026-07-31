@@ -1,8 +1,8 @@
-package com.tiendaTech.tienda.service;
+package com.TiendaTech.tienda.service;
 
 
-import com.tiendaTech.tienda.domain.Usuario;
-import com.tiendaTech.tienda.repository.UsuarioRepository;
+import com.TiendaTech.tienda.domain.Usuario;
+import com.TiendaTech.tienda.repository.UsuarioRepository;
 import jakarta.servlet.http.HttpSession;
 import java.util.stream.Collectors;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

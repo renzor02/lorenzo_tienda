@@ -1,6 +1,6 @@
-package com.tiendaTech.tienda.service;
+package com.TiendaTech.tienda.service;
 
-import com.tiendaTech.tienda.domain.Usuario;
+import com.TiendaTech.tienda.domain.Usuario;
 import jakarta.mail.MessagingException;
 import java.util.Locale;
 import java.util.Optional;

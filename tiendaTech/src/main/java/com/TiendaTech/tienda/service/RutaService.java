@@ -1,7 +1,7 @@
-package com.tiendaTech.tienda.service;
+package com.TiendaTech.tienda.service;
 
-import com.tiendaTech.tienda.domain.Ruta;
-import com.tiendaTech.tienda.repository.RutaRepository;
+import com.TiendaTech.tienda.domain.Ruta;
+import com.TiendaTech.tienda.repository.RutaRepository;
 import java.util.List;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

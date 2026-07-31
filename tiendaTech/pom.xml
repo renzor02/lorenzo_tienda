@@ -121,9 +121,9 @@
             <type>jar</type>
         </dependency>
         <dependency>
-            <groupId>com.tiendaTech</groupId>
-            <artifactId>tienda</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <groupId>org.eclipse.angus</groupId>
+            <artifactId>angus-mail</artifactId>
+            <version>2.0.5</version>
             <type>jar</type>
         </dependency>
     </dependencies>
