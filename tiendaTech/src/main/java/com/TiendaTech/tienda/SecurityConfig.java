@@ -1,4 +1,4 @@
-   package com.TiendaTech.tienda;
+package com.TiendaTech.tienda;
 
 import com.TiendaTech.tienda.domain.Ruta;
 import com.TiendaTech.tienda.service.RutaService;
